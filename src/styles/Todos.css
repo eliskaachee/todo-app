@@ -1,0 +1,12 @@
+.hide-completed-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.todo-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
